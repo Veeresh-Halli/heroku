@@ -3,18 +3,13 @@ certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
 Django==3.1.4
-django-filter==2.4.0
-djangorestframework==3.12.2
-gTTS==2.2.2
 gunicorn==20.0.4
 idna==2.10
 Pillow==8.0.1
 psycopg2==2.8.6
-PyAudio @ file:///C:/Users/Admin/Downloads/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pytz==2020.5
 requests==2.25.1
 six==1.15.0
-SpeechRecognition==3.8.1
 sqlparse==0.4.1
 urllib3==1.26.3
 whitenoise==5.2.0
